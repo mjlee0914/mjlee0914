@@ -2,12 +2,12 @@
   <img src="assets/laptop-typing-cat.gif" alt="Cat at the Keyboard, animated ASCII art" width="720">
 </p>
 
-<h1 align="center">Hi, I'm Myungji Lee 👋</h1>
+#### 👩🏻‍💻 MJ Lee
 
-<p align="center">
-  Backend부터 Frontend까지 직접 연결하며 배우는 개발자입니다.<br>
-  사용자가 실제로 쓸 수 있는 서비스를 만드는 과정을 좋아합니다.
-</p>
+\
+Python&nbsp;&nbsp;·&nbsp;&nbsp;SQL&nbsp;&nbsp;·&nbsp;&nbsp;APIs\
+\
+✨ curious, organized, always tweaking
 
 ### About Me
 
