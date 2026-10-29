@@ -2,12 +2,11 @@
   <img src="assets/laptop-typing-cat.gif" alt="Cat at the Keyboard, animated ASCII art" width="720">
 </p>
 
-#### 👩🏻‍💻 MJ Lee
+<h2 align="center">👩🏻‍💻 MJ Lee</h2>
 
-\
-Python&nbsp;&nbsp;·&nbsp;&nbsp;SQL&nbsp;&nbsp;·&nbsp;&nbsp;APIs\
-\
-✨ curious, organized, always tweaking
+<h3 align="center">Python&nbsp;&nbsp;·&nbsp;&nbsp;SQL&nbsp;&nbsp;·&nbsp;&nbsp;APIs</h3>
+
+<h3 align="center">✨ curious, organized, always tweaking</h3>
 
 ### About Me
 
